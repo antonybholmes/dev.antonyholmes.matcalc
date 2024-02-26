@@ -21,7 +21,7 @@ package edu.columbia.rdf.matcalc;
 public enum AutoPlotType {
 
   /**
-   * The none.
+   * Do not plot anything.
    */
   NONE,
 
