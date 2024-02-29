@@ -16,8 +16,9 @@
 package edu.columbia.rdf.matcalc.toolbox;
 
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.combobox.ModernComboBox;
-import org.jebtk.modern.table.ModernTableModel;
+
+import dev.antonyholmes.modern.combobox.ModernComboBox;
+import dev.antonyholmes.modern.table.ModernTableModel;
 
 /**
  * The class ColumnCombo.

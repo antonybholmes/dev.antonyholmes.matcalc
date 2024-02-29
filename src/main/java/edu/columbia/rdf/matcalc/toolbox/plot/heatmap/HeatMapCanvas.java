@@ -49,7 +49,8 @@ import org.jebtk.graphplot.plotbox.PlotBoxColumn;
 import org.jebtk.graphplot.plotbox.PlotBoxEmpty;
 import org.jebtk.graphplot.plotbox.PlotBoxRow;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.graphics.colormap.ColorMap;
+
+import dev.antonyholmes.modern.graphics.colormap.ColorMap;
 
 /**
  * Generates a heatmap from a data matrix.

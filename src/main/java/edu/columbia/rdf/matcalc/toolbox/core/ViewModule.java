@@ -15,8 +15,7 @@
  */
 package edu.columbia.rdf.matcalc.toolbox.core;
 
-import org.jebtk.modern.window.WindowRibbonSection;
-
+import dev.antonyholmes.modern.window.WindowRibbonSection;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
 import edu.columbia.rdf.matcalc.toolbox.Module;
 

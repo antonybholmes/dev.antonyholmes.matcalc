@@ -16,8 +16,9 @@
 package edu.columbia.rdf.matcalc;
 
 import org.jebtk.core.text.TextUtils;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.combobox.ModernComboBox2;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.combobox.ModernComboBox2;
 
 /**
  * Defines a set of delimiters for parsing files.

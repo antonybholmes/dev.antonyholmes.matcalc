@@ -29,13 +29,13 @@ package edu.columbia.rdf.matcalc.toolbox.math;
 
 import javax.swing.Box;
 
-import org.jebtk.modern.UI;
-import org.jebtk.modern.dialog.ModernDialogHelpWindow;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.panel.HExpandBox;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
-import org.jebtk.modern.window.ModernWindow;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.dialog.ModernDialogHelpWindow;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.panel.HExpandBox;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class LogDialog.

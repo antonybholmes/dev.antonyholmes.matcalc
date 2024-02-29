@@ -20,7 +20,8 @@ import java.util.List;
 
 import org.jebtk.core.collections.CollectionUtils;
 import org.jebtk.graphplot.figure.series.XYSeries;
-import org.jebtk.modern.table.ModernTableModel;
+
+import dev.antonyholmes.modern.table.ModernTableModel;
 
 /**
  * The Class XYSeriesTableModel.

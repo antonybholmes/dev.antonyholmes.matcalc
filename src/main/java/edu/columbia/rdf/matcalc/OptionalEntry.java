@@ -21,10 +21,10 @@ import java.text.ParseException;
 
 import javax.swing.Box;
 
-import org.jebtk.modern.button.ModernCheckSwitch;
-import org.jebtk.modern.button.ModernTwoStateWidget;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.button.ModernCheckSwitch;
+import dev.antonyholmes.modern.button.ModernTwoStateWidget;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
 
 /**
  * Allow users to optionally enable a filter etc.

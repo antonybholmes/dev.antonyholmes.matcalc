@@ -16,10 +16,10 @@
 package edu.columbia.rdf.matcalc.figure.graph2d;
 
 import org.jebtk.graphplot.figure.props.StyleProps;
-import org.jebtk.modern.panel.ModernPanel;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.window.ModernWindow;
 
+import dev.antonyholmes.modern.panel.ModernPanel;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.window.ModernWindow;
 import edu.columbia.rdf.matcalc.figure.FillStyleControl;
 import edu.columbia.rdf.matcalc.figure.LineStyleControl;
 

@@ -29,11 +29,11 @@ import org.jebtk.graphplot.figure.series.XYSeriesModel;
 import org.jebtk.graphplot.plotbox.PlotBox;
 import org.jebtk.math.cluster.Cluster;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.graphics.colormap.ColorMapModel;
-import org.jebtk.modern.tabs.TabsModel;
-import org.jebtk.modern.window.ModernRibbonWindow;
-import org.jebtk.modern.zoom.ZoomModel;
 
+import dev.antonyholmes.modern.graphics.colormap.ColorMapModel;
+import dev.antonyholmes.modern.tabs.TabsModel;
+import dev.antonyholmes.modern.window.ModernRibbonWindow;
+import dev.antonyholmes.modern.zoom.ZoomModel;
 import edu.columbia.rdf.matcalc.toolbox.plot.heatmap.ScaleModel;
 import edu.columbia.rdf.matcalc.toolbox.plot.heatmap.legacy.HeatMapPanel;
 

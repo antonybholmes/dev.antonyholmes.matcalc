@@ -25,15 +25,16 @@ import org.jebtk.core.event.ChangeEvent;
 import org.jebtk.core.event.ChangeListener;
 import org.jebtk.graphplot.figure.props.MarginProps;
 import org.jebtk.graphplot.plotbox.PlotBox;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.panel.ModernPanel;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.text.ModernLabel;
-import org.jebtk.modern.text.ModernNumericalTextField;
-import org.jebtk.modern.text.ModernTextBorderPanel;
-import org.jebtk.modern.text.ModernTextField;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.panel.ModernPanel;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.text.ModernLabel;
+import dev.antonyholmes.modern.text.ModernNumericalTextField;
+import dev.antonyholmes.modern.text.ModernTextBorderPanel;
+import dev.antonyholmes.modern.text.ModernTextField;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class MarginControl.

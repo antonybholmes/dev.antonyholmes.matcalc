@@ -24,25 +24,26 @@ import javax.swing.Box;
 import org.jebtk.core.event.ChangeEvent;
 import org.jebtk.core.event.ChangeListener;
 import org.jebtk.core.text.TextUtils;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernButtonGroup;
-import org.jebtk.modern.button.ModernRadioButton;
-import org.jebtk.modern.dialog.ModernDialogHelpWindow;
-import org.jebtk.modern.dialog.ModernMessageDialog;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.graphics.colormap.ColorMap;
-import org.jebtk.modern.graphics.colormap.ColorMapEditPanel;
-import org.jebtk.modern.graphics.colormap.ColorMapService;
-import org.jebtk.modern.graphics.colormap.ColorMapType;
-import org.jebtk.modern.panel.CardPanel2;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
-import org.jebtk.modern.text.ModernAutoSizeLabel;
-import org.jebtk.modern.text.ModernTextBorderPanel;
-import org.jebtk.modern.text.ModernTextField;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernButtonGroup;
+import dev.antonyholmes.modern.button.ModernRadioButton;
+import dev.antonyholmes.modern.dialog.ModernDialogHelpWindow;
+import dev.antonyholmes.modern.dialog.ModernMessageDialog;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.graphics.colormap.ColorMap;
+import dev.antonyholmes.modern.graphics.colormap.ColorMapEditPanel;
+import dev.antonyholmes.modern.graphics.colormap.ColorMapService;
+import dev.antonyholmes.modern.graphics.colormap.ColorMapType;
+import dev.antonyholmes.modern.panel.CardPanel2;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
+import dev.antonyholmes.modern.text.ModernTextBorderPanel;
+import dev.antonyholmes.modern.text.ModernTextField;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class ColorDialog.

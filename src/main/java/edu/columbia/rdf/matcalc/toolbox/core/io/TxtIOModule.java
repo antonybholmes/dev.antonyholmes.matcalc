@@ -24,10 +24,10 @@ import org.jebtk.math.matrix.CsvMatrixParser;
 import org.jebtk.math.matrix.DataFrame;
 import org.jebtk.math.matrix.DoubleMatrixParser;
 import org.jebtk.math.matrix.MixedMatrixParser;
-import org.jebtk.modern.dialog.ModernDialogStatus;
-import org.jebtk.modern.io.FileFilterService;
-import org.jebtk.modern.io.GuiFileExtFilter;
 
+import dev.antonyholmes.modern.dialog.ModernDialogStatus;
+import dev.antonyholmes.modern.io.FileFilterService;
+import dev.antonyholmes.modern.io.GuiFileExtFilter;
 import edu.columbia.rdf.matcalc.FileType;
 import edu.columbia.rdf.matcalc.ImportDialog;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;

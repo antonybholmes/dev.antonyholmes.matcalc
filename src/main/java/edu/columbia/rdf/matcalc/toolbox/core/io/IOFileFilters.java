@@ -5,7 +5,8 @@ import java.util.Map.Entry;
 
 import org.jebtk.core.collections.IterMap;
 import org.jebtk.core.collections.IterTreeMap;
-import org.jebtk.modern.io.GuiFileExtFilter;
+
+import dev.antonyholmes.modern.io.GuiFileExtFilter;
 
 public class IOFileFilters implements Iterable<Entry<GuiFileExtFilter, Boolean>> {
   private IterMap<GuiFileExtFilter, Boolean> mFileFilters = new IterTreeMap<GuiFileExtFilter, Boolean>();

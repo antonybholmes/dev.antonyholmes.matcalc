@@ -1,6 +1,6 @@
 package edu.columbia.rdf.matcalc.toolbox.math;
 
-import org.jebtk.modern.combobox.ModernComboBox;
+import dev.antonyholmes.modern.combobox.ModernComboBox;
 
 public class LogCombo extends ModernComboBox {
   private static final long serialVersionUID = 1L;

@@ -22,27 +22,28 @@ import java.util.List;
 import javax.swing.Box;
 
 import org.jebtk.core.collections.CollectionUtils;
-import org.jebtk.modern.AssetService;
-import org.jebtk.modern.BorderService;
-import org.jebtk.modern.ModernComponent;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernButton;
-import org.jebtk.modern.dialog.MessageDialogType;
-import org.jebtk.modern.dialog.ModernDialogHelpWindow;
-import org.jebtk.modern.dialog.ModernDialogStatus;
-import org.jebtk.modern.dialog.ModernDialogWindow;
-import org.jebtk.modern.dialog.ModernMessageDialog;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.graphics.colormap.ColorMap;
-import org.jebtk.modern.graphics.colormap.ColorMapService;
-import org.jebtk.modern.graphics.colormap.ColorMapTable;
-import org.jebtk.modern.graphics.icons.PlusVectorIcon;
-import org.jebtk.modern.panel.CardPanel;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.scrollpane.ModernScrollPane;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.AssetService;
+import dev.antonyholmes.modern.BorderService;
+import dev.antonyholmes.modern.ModernComponent;
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernButton;
+import dev.antonyholmes.modern.dialog.MessageDialogType;
+import dev.antonyholmes.modern.dialog.ModernDialogHelpWindow;
+import dev.antonyholmes.modern.dialog.ModernDialogStatus;
+import dev.antonyholmes.modern.dialog.ModernDialogWindow;
+import dev.antonyholmes.modern.dialog.ModernMessageDialog;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.graphics.colormap.ColorMap;
+import dev.antonyholmes.modern.graphics.colormap.ColorMapService;
+import dev.antonyholmes.modern.graphics.colormap.ColorMapTable;
+import dev.antonyholmes.modern.graphics.icons.PlusVectorIcon;
+import dev.antonyholmes.modern.panel.CardPanel;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.scrollpane.ModernScrollPane;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class ColorDialog.

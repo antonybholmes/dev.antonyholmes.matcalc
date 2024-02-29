@@ -24,15 +24,16 @@ import javax.swing.Box;
 import org.jebtk.core.event.ChangeEvent;
 import org.jebtk.core.event.ChangeListener;
 import org.jebtk.graphplot.figure.Axes;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.panel.HExBox;
-import org.jebtk.modern.panel.ModernPanel;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.text.ModernAutoSizeLabel;
-import org.jebtk.modern.text.ModernNumericalTextField;
-import org.jebtk.modern.text.ModernTextBorderPanel;
-import org.jebtk.modern.text.ModernTextField;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.panel.HExBox;
+import dev.antonyholmes.modern.panel.ModernPanel;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
+import dev.antonyholmes.modern.text.ModernNumericalTextField;
+import dev.antonyholmes.modern.text.ModernTextBorderPanel;
+import dev.antonyholmes.modern.text.ModernTextField;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class MarginControl.

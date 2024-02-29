@@ -18,10 +18,10 @@ package edu.columbia.rdf.matcalc.figure;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 
-import org.jebtk.modern.AssetService;
-import org.jebtk.modern.graphics.icons.ModernIcon;
-import org.jebtk.modern.table.ModernTableCheckboxCellRenderer;
-import org.jebtk.modern.theme.ThemeService;
+import dev.antonyholmes.modern.AssetService;
+import dev.antonyholmes.modern.graphics.icons.ModernIcon;
+import dev.antonyholmes.modern.table.ModernTableCheckboxCellRenderer;
+import dev.antonyholmes.modern.theme.ThemeService;
 
 /**
  * Displays an icon in a table cell.

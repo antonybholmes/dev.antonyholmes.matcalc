@@ -17,10 +17,10 @@ package edu.columbia.rdf.matcalc;
 
 import java.text.ParseException;
 
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernCheckSwitch;
-import org.jebtk.modern.button.ModernTwoStateWidget;
-import org.jebtk.modern.panel.VBox;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernCheckSwitch;
+import dev.antonyholmes.modern.button.ModernTwoStateWidget;
+import dev.antonyholmes.modern.panel.VBox;
 
 /**
  * For choosing an FDR method.

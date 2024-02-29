@@ -19,8 +19,9 @@ import java.awt.Graphics2D;
 
 import org.jebtk.core.Props;
 import org.jebtk.graphplot.icons.HeatMap32VectorIcon;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.graphics.icons.ModernVectorIcon;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.graphics.icons.ModernVectorIcon;
 
 /**
  * Simple pane icon.

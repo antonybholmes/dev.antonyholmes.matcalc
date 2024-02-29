@@ -18,8 +18,9 @@ package edu.columbia.rdf.matcalc.icons;
 import java.awt.Graphics2D;
 
 import org.jebtk.core.Props;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.graphics.icons.RightPane32VectorIcon;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.graphics.icons.RightPane32VectorIcon;
 
 /**
  * The class History32VectorIcon.

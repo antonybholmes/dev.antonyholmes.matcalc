@@ -21,8 +21,8 @@ import java.util.Collection;
 
 import org.jebtk.core.text.TextUtils;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.dialog.ModernDialogStatus;
 
+import dev.antonyholmes.modern.dialog.ModernDialogStatus;
 import edu.columbia.rdf.matcalc.FileType;
 import edu.columbia.rdf.matcalc.ImportDialog;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;

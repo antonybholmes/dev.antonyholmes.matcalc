@@ -15,9 +15,9 @@
  */
 package edu.columbia.rdf.matcalc.toolbox.core.filter.column;
 
-import org.jebtk.modern.table.ModernRowTable;
-import org.jebtk.modern.table.ModernTableCheckboxCellEditor;
-import org.jebtk.modern.table.ModernTableCheckboxCellRenderer;
+import dev.antonyholmes.modern.table.ModernRowTable;
+import dev.antonyholmes.modern.table.ModernTableCheckboxCellEditor;
+import dev.antonyholmes.modern.table.ModernTableCheckboxCellRenderer;
 
 /**
  * Table model for ordering rows/columns.

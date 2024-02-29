@@ -20,8 +20,9 @@ import java.awt.Graphics2D;
 import java.awt.Rectangle;
 
 import org.jebtk.core.Props;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.graphics.icons.ModernVectorIcon;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.graphics.icons.ModernVectorIcon;
 
 /**
  * Displays a color bar.

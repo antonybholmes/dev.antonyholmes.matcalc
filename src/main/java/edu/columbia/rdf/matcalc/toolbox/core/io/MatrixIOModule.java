@@ -16,7 +16,8 @@
 package edu.columbia.rdf.matcalc.toolbox.core.io;
 
 import org.jebtk.bioinformatics.ui.filters.MatrixFilesGuiFileExtFilter;
-import org.jebtk.modern.io.GuiFileExtFilter;
+
+import dev.antonyholmes.modern.io.GuiFileExtFilter;
 
 /**
  * Allow users to open from a core matrix file. This is a partial module.

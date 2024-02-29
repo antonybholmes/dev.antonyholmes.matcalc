@@ -18,12 +18,13 @@ package edu.columbia.rdf.matcalc.figure;
 import javax.swing.BoxLayout;
 
 import org.jebtk.graphplot.figure.heatmap.ColorNormalizationType;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.button.ModernButtonGroup;
-import org.jebtk.modern.button.ModernRadioButton;
-import org.jebtk.modern.button.ModernTwoStateWidget;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.panel.ModernPanel;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.button.ModernButtonGroup;
+import dev.antonyholmes.modern.button.ModernRadioButton;
+import dev.antonyholmes.modern.button.ModernTwoStateWidget;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.panel.ModernPanel;
 
 /**
  * The class StandardizationChooser.

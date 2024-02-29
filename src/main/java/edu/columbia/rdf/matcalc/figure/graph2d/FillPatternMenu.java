@@ -21,9 +21,10 @@ import org.jebtk.graphplot.icons.FillPatternForwardIcon;
 import org.jebtk.graphplot.icons.FillPatternHozIcon;
 import org.jebtk.graphplot.icons.FillPatternSolidIcon;
 import org.jebtk.graphplot.icons.FillPatternVertIcon;
-import org.jebtk.modern.graphics.icons.Raster16Icon;
-import org.jebtk.modern.menu.ModernIconMenuItem;
-import org.jebtk.modern.menu.ModernPopupMenu;
+
+import dev.antonyholmes.modern.graphics.icons.Raster16Icon;
+import dev.antonyholmes.modern.menu.ModernIconMenuItem;
+import dev.antonyholmes.modern.menu.ModernPopupMenu;
 
 /**
  * The class FillPatternMenu.

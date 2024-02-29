@@ -20,13 +20,14 @@ import java.awt.Color;
 import javax.swing.Box;
 
 import org.jebtk.graphplot.figure.props.TickMarkProps;
-import org.jebtk.modern.button.CheckBox;
-import org.jebtk.modern.button.ModernCheckBox;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.graphics.color.ColorSwatchButton;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.button.CheckBox;
+import dev.antonyholmes.modern.button.ModernCheckBox;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.graphics.color.ColorSwatchButton;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class TickColorPlotControl.

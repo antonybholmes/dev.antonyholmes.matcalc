@@ -16,8 +16,9 @@
 package edu.columbia.rdf.matcalc;
 
 import org.jebtk.math.ui.matrix.transform.MatrixTransform;
-import org.jebtk.modern.history.ModernHistoryPanel;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.history.ModernHistoryPanel;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class MatCalcHistoryPanel.

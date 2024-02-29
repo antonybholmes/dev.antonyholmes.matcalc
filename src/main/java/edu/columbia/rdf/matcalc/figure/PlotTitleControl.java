@@ -21,15 +21,16 @@ import java.awt.event.KeyListener;
 import org.jebtk.core.event.ChangeEvent;
 import org.jebtk.core.event.ChangeListener;
 import org.jebtk.graphplot.figure.props.TitleProps;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.panel.HExBox;
-import org.jebtk.modern.text.ModernAutoSizeLabel;
-import org.jebtk.modern.text.ModernClipboardTextField;
-import org.jebtk.modern.text.ModernTextBorderPanel;
-import org.jebtk.modern.text.ModernTextField;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.panel.HExBox;
+import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
+import dev.antonyholmes.modern.text.ModernClipboardTextField;
+import dev.antonyholmes.modern.text.ModernTextBorderPanel;
+import dev.antonyholmes.modern.text.ModernTextField;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class PlotTitleControl.

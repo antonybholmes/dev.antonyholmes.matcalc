@@ -17,8 +17,9 @@ package edu.columbia.rdf.matcalc;
 
 import org.jebtk.math.matrix.DataFrame;
 import org.jebtk.math.ui.matrix.transform.MatrixTransform;
-import org.jebtk.modern.window.ModernWindow;
-import org.jebtk.modern.window.WindowService;
+
+import dev.antonyholmes.modern.window.ModernWindow;
+import dev.antonyholmes.modern.window.WindowService;
 
 /**
  * Create a plot from a matrix.

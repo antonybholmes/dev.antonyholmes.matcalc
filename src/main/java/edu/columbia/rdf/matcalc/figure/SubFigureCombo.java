@@ -16,7 +16,8 @@
 package edu.columbia.rdf.matcalc.figure;
 
 import org.jebtk.graphplot.figure.Figure;
-import org.jebtk.modern.combobox.ModernComboBox;
+
+import dev.antonyholmes.modern.combobox.ModernComboBox;
 
 /**
  * The class FigureCombo.

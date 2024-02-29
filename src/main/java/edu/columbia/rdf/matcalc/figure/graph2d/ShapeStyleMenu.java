@@ -23,10 +23,11 @@ import org.jebtk.graphplot.icons.ShapeMinusStyleIcon;
 import org.jebtk.graphplot.icons.ShapePlusStyleIcon;
 import org.jebtk.graphplot.icons.ShapeSquareStyleIcon;
 import org.jebtk.graphplot.icons.ShapeTriangleStyleIcon;
-import org.jebtk.modern.graphics.icons.ModernIcon;
-import org.jebtk.modern.graphics.icons.Raster16Icon;
-import org.jebtk.modern.menu.ModernIconMenuItem;
-import org.jebtk.modern.menu.ModernPopupMenu;
+
+import dev.antonyholmes.modern.graphics.icons.ModernIcon;
+import dev.antonyholmes.modern.graphics.icons.Raster16Icon;
+import dev.antonyholmes.modern.menu.ModernIconMenuItem;
+import dev.antonyholmes.modern.menu.ModernPopupMenu;
 
 /**
  * The class ShapeStyleMenu.

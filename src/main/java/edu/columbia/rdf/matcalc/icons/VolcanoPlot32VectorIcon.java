@@ -18,8 +18,9 @@ package edu.columbia.rdf.matcalc.icons;
 import java.awt.Graphics2D;
 
 import org.jebtk.core.Props;
-import org.jebtk.modern.graphics.icons.ModernVectorIcon;
-import org.jebtk.modern.theme.ThemeService;
+
+import dev.antonyholmes.modern.graphics.icons.ModernVectorIcon;
+import dev.antonyholmes.modern.theme.ThemeService;
 
 /**
  * The class VolcanoPlot32VectorIcon.

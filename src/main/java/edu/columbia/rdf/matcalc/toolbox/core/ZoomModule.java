@@ -15,8 +15,7 @@
  */
 package edu.columbia.rdf.matcalc.toolbox.core;
 
-import org.jebtk.modern.zoom.ZoomRibbonSection;
-
+import dev.antonyholmes.modern.zoom.ZoomRibbonSection;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
 import edu.columbia.rdf.matcalc.toolbox.Module;
 

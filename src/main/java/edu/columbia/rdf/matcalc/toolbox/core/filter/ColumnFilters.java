@@ -20,10 +20,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.BorderService;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.panel.VBoxAutoWidth;
+
+import dev.antonyholmes.modern.BorderService;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.panel.VBoxAutoWidth;
 
 /**
  * The Class ColumnSorters.

@@ -16,7 +16,8 @@
 package edu.columbia.rdf.matcalc.figure;
 
 import org.jebtk.graphplot.figure.Axis;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class AxisLinePlotControl.

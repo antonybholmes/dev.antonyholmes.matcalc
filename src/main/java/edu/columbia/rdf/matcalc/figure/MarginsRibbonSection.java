@@ -21,12 +21,13 @@ import java.awt.event.KeyListener;
 import javax.swing.Box;
 
 import org.jebtk.graphplot.figure.Axes;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.ribbon.Ribbon;
-import org.jebtk.modern.ribbon.RibbonSection;
-import org.jebtk.modern.ribbon.RibbonStripContainer;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
-import org.jebtk.modern.text.ModernAutoSizeLabel;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.ribbon.Ribbon;
+import dev.antonyholmes.modern.ribbon.RibbonSection;
+import dev.antonyholmes.modern.ribbon.RibbonStripContainer;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
 
 /**
  * Allows user to select a color map.

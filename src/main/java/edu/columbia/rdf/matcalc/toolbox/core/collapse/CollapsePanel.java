@@ -18,10 +18,10 @@ package edu.columbia.rdf.matcalc.toolbox.core.collapse;
 import org.jebtk.graphplot.figure.series.XYSeriesGroup;
 import org.jebtk.math.matrix.DataFrame;
 import org.jebtk.math.matrix.MatrixGroup;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.panel.HExpandBox;
-import org.jebtk.modern.panel.VBox;
 
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.panel.HExpandBox;
+import dev.antonyholmes.modern.panel.VBox;
 import edu.columbia.rdf.matcalc.GroupPanel;
 import edu.columbia.rdf.matcalc.MatrixRowAnnotationCombo;
 

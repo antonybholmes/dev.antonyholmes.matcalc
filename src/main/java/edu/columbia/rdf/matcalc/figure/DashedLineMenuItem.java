@@ -19,7 +19,7 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.Stroke;
 
-import org.jebtk.modern.menu.ModernMenuItem;
+import dev.antonyholmes.modern.menu.ModernMenuItem;
 
 /**
  * Menu item for displaying line styles.

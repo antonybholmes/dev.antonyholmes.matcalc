@@ -20,7 +20,8 @@ import java.awt.Graphics2D;
 
 import org.jebtk.core.Props;
 import org.jebtk.core.settings.SettingsService;
-import org.jebtk.modern.graphics.icons.TableVectorIcon;
+
+import dev.antonyholmes.modern.graphics.icons.TableVectorIcon;
 
 /**
  * The class ColorStandardizationMatrixIcon.

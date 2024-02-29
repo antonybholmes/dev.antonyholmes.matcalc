@@ -18,9 +18,10 @@ package edu.columbia.rdf.matcalc.figure;
 import javax.swing.Box;
 
 import org.jebtk.core.event.ChangeListener;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
-import org.jebtk.modern.text.ModernAutoSizeLabel;
+
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
 
 /**
  * The class NumericalControl.

@@ -21,7 +21,8 @@ import java.awt.geom.GeneralPath;
 
 import org.jebtk.core.ColorUtils;
 import org.jebtk.core.Props;
-import org.jebtk.modern.graphics.icons.ModernVectorIcon;
+
+import dev.antonyholmes.modern.graphics.icons.ModernVectorIcon;
 
 /**
  * Help icon.

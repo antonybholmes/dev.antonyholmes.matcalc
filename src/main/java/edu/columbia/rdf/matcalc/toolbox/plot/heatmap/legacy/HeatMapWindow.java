@@ -23,10 +23,10 @@ import org.jebtk.graphplot.figure.heatmap.legacy.CountGroups;
 import org.jebtk.graphplot.figure.series.XYSeriesModel;
 import org.jebtk.graphplot.plotbox.PlotBox;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.contentpane.CloseableHTab;
-import org.jebtk.modern.graphics.colormap.ColorMap;
-import org.jebtk.modern.window.ModernWindow;
 
+import dev.antonyholmes.modern.contentpane.CloseableHTab;
+import dev.antonyholmes.modern.graphics.colormap.ColorMap;
+import dev.antonyholmes.modern.window.ModernWindow;
 import edu.columbia.rdf.matcalc.figure.FigureWindow;
 import edu.columbia.rdf.matcalc.figure.FormatPlotPane;
 

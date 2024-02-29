@@ -21,20 +21,21 @@ import javax.swing.Box;
 
 import org.jebtk.core.settings.SettingsService;
 import org.jebtk.core.text.Splitter;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.CheckBox;
-import org.jebtk.modern.button.ModernCheckSwitch;
-import org.jebtk.modern.dialog.ModernDialogHelpWindow;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.panel.HExpandBox;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
-import org.jebtk.modern.text.ModernClipboardTextField;
-import org.jebtk.modern.text.ModernTextBorderPanel;
-import org.jebtk.modern.text.ModernTextField;
-import org.jebtk.modern.window.ModernWindow;
-import org.jebtk.modern.window.WindowWidgetFocusEvents;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.CheckBox;
+import dev.antonyholmes.modern.button.ModernCheckSwitch;
+import dev.antonyholmes.modern.dialog.ModernDialogHelpWindow;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.panel.HExpandBox;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.text.ModernClipboardTextField;
+import dev.antonyholmes.modern.text.ModernTextBorderPanel;
+import dev.antonyholmes.modern.text.ModernTextField;
+import dev.antonyholmes.modern.window.ModernWindow;
+import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
 
 /**
  * User can select how many annotations there are.

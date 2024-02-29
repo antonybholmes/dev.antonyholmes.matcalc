@@ -15,7 +15,7 @@
  */
 package edu.columbia.rdf.matcalc.toolbox.core.sort;
 
-import org.jebtk.modern.combobox.ModernComboBox;
+import dev.antonyholmes.modern.combobox.ModernComboBox;
 
 /**
  * The Class SortOrderCombo.

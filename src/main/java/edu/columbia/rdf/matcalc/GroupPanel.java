@@ -20,14 +20,15 @@ import java.util.List;
 import javax.swing.Box;
 
 import org.jebtk.graphplot.figure.series.XYSeries;
-import org.jebtk.modern.button.CheckBox;
-import org.jebtk.modern.button.ModernCheckBox;
-import org.jebtk.modern.combobox.ModernComboBox2;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.panel.ModernPanel;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.text.ModernAutoSizeLabel;
-import org.jebtk.modern.text.ModernLabel;
+
+import dev.antonyholmes.modern.button.CheckBox;
+import dev.antonyholmes.modern.button.ModernCheckBox;
+import dev.antonyholmes.modern.combobox.ModernComboBox2;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.panel.ModernPanel;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
+import dev.antonyholmes.modern.text.ModernLabel;
 
 /**
  * For choosing an FDR method.

@@ -16,7 +16,8 @@
 package edu.columbia.rdf.matcalc.toolbox.core.venn;
 
 import org.jebtk.core.AppVersion;
-import org.jebtk.modern.help.GuiAppInfo;
+
+import dev.antonyholmes.modern.help.GuiAppInfo;
 
 /**
  * The Class VennInfo.

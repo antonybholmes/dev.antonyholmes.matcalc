@@ -16,9 +16,10 @@
 package edu.columbia.rdf.matcalc.figure;
 
 import org.jebtk.graphplot.figure.props.LegendProps;
-import org.jebtk.modern.panel.ModernPanel;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.panel.ModernPanel;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class AxisPlotControl.

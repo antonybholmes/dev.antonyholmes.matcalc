@@ -16,9 +16,10 @@
 package edu.columbia.rdf.matcalc.figure.graph2d;
 
 import org.jebtk.graphplot.icons.Graph2dStyleMultiIcon24;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.ribbon.RibbonLargeDropDownButton2;
+
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.ribbon.RibbonLargeDropDownButton2;
 
 /**
  * The class Graph2dStyleRibbonButton.

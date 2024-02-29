@@ -20,7 +20,8 @@ import java.util.Map;
 
 import org.jebtk.core.Indexed;
 import org.jebtk.core.collections.CollectionUtils;
-import org.jebtk.modern.table.ModernTableModel;
+
+import dev.antonyholmes.modern.table.ModernTableModel;
 
 /**
  * Table model for ordering rows/columns.

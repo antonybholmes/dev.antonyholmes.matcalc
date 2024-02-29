@@ -22,7 +22,8 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 import org.jebtk.core.sys.SysUtils;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.help.GuiAppInfo;
+
+import dev.antonyholmes.modern.help.GuiAppInfo;
 
 /**
  * The class MainMatCalc.

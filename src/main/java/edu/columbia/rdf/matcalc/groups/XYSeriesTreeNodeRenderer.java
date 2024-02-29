@@ -32,9 +32,10 @@ import java.awt.Graphics2D;
 import org.jebtk.core.tree.TreeNode;
 import org.jebtk.graphplot.figure.series.XYSeries;
 import org.jebtk.math.matrix.MatrixGroup;
-import org.jebtk.modern.tree.ModernTreeIconTextNodeRenderer;
-import org.jebtk.modern.tree.ModernTreeNodeRenderer;
-import org.jebtk.modern.tree.Tree;
+
+import dev.antonyholmes.modern.tree.ModernTreeIconTextNodeRenderer;
+import dev.antonyholmes.modern.tree.ModernTreeNodeRenderer;
+import dev.antonyholmes.modern.tree.Tree;
 
 // TODO: Auto-generated Javadoc
 /**

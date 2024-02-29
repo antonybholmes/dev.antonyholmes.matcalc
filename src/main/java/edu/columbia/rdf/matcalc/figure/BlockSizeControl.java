@@ -19,10 +19,11 @@ import org.jebtk.core.event.ChangeListener;
 import org.jebtk.core.geom.DoubleDim;
 import org.jebtk.core.geom.IntDim;
 import org.jebtk.graphplot.figure.heatmap.legacy.MatrixPlotElement;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.panel.HExpandBox;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.panel.HExpandBox;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
 
 /**
  * The class AspectRatioControl.

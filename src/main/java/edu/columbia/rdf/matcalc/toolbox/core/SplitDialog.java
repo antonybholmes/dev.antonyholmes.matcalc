@@ -29,13 +29,13 @@ package edu.columbia.rdf.matcalc.toolbox.core;
 
 import javax.swing.Box;
 
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.CheckBox;
-import org.jebtk.modern.button.ModernCheckBox;
-import org.jebtk.modern.dialog.ModernDialogHelpWindow;
-import org.jebtk.modern.dialog.ModernDialogTaskType;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.window.ModernWindow;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.CheckBox;
+import dev.antonyholmes.modern.button.ModernCheckBox;
+import dev.antonyholmes.modern.dialog.ModernDialogHelpWindow;
+import dev.antonyholmes.modern.dialog.ModernDialogTaskType;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * User can enter an integer option value.

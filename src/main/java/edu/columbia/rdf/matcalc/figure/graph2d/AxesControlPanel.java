@@ -22,12 +22,12 @@ import org.jebtk.graphplot.figure.Figure;
 import org.jebtk.graphplot.figure.Plot;
 import org.jebtk.graphplot.figure.SubFigure;
 import org.jebtk.graphplot.plotbox.PlotBox;
-import org.jebtk.modern.collapsepane.AbstractCollapsePane;
-import org.jebtk.modern.collapsepane.ModernSubCollapsePane;
-import org.jebtk.modern.scrollpane.ModernScrollPane;
-import org.jebtk.modern.scrollpane.ScrollBarPolicy;
-import org.jebtk.modern.window.ModernRibbonWindow;
 
+import dev.antonyholmes.modern.collapsepane.AbstractCollapsePane;
+import dev.antonyholmes.modern.collapsepane.ModernSubCollapsePane;
+import dev.antonyholmes.modern.scrollpane.ModernScrollPane;
+import dev.antonyholmes.modern.scrollpane.ScrollBarPolicy;
+import dev.antonyholmes.modern.window.ModernRibbonWindow;
 import edu.columbia.rdf.matcalc.figure.AxesControl;
 import edu.columbia.rdf.matcalc.figure.AxisControl;
 import edu.columbia.rdf.matcalc.figure.FormatPlotPane;

@@ -18,7 +18,8 @@ package edu.columbia.rdf.matcalc.toolbox;
 import java.util.List;
 
 import org.jebtk.core.text.TextUtils;
-import org.jebtk.modern.table.ModernTableModel;
+
+import dev.antonyholmes.modern.table.ModernTableModel;
 
 /**
  * Loads.

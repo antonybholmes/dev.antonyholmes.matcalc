@@ -17,10 +17,11 @@ package edu.columbia.rdf.matcalc.figure.graph2d;
 
 import org.jebtk.graphplot.figure.Graph2dStyleModel;
 import org.jebtk.graphplot.figure.PlotStyle;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.ribbon.Ribbon;
-import org.jebtk.modern.ribbon.RibbonSection;
+
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.ribbon.Ribbon;
+import dev.antonyholmes.modern.ribbon.RibbonSection;
 
 /**
  * Allows user to select a color map.

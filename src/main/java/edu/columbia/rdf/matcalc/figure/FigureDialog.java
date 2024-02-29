@@ -17,14 +17,14 @@ package edu.columbia.rdf.matcalc.figure;
 
 import javax.swing.Box;
 
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernButtonGroup;
-import org.jebtk.modern.button.ModernRadioButton;
-import org.jebtk.modern.dialog.ModernDialogTaskWindow;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.window.ModernWindow;
-import org.jebtk.modern.window.WindowWidgetFocusEvents;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernButtonGroup;
+import dev.antonyholmes.modern.button.ModernRadioButton;
+import dev.antonyholmes.modern.dialog.ModernDialogTaskWindow;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.window.ModernWindow;
+import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
 
 /**
  * Allow users to choose whether to create a new figure or add to an existing

@@ -18,19 +18,20 @@ package edu.columbia.rdf.matcalc.toolbox.plot.heatmap;
 import javax.swing.Box;
 
 import org.jebtk.core.settings.SettingsService;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernButtonGroup;
-import org.jebtk.modern.button.ModernRadioButton;
-import org.jebtk.modern.dialog.ModernDialogTaskWindow;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.panel.VBoxAutoWidth;
-import org.jebtk.modern.text.ModernAutoSizeLabel;
-import org.jebtk.modern.text.ModernClipboardNumericalTextField;
-import org.jebtk.modern.text.ModernTextBorderPanel;
-import org.jebtk.modern.text.ModernTextField;
-import org.jebtk.modern.window.ModernWindow;
-import org.jebtk.modern.window.WindowWidgetFocusEvents;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernButtonGroup;
+import dev.antonyholmes.modern.button.ModernRadioButton;
+import dev.antonyholmes.modern.dialog.ModernDialogTaskWindow;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.panel.VBoxAutoWidth;
+import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
+import dev.antonyholmes.modern.text.ModernClipboardNumericalTextField;
+import dev.antonyholmes.modern.text.ModernTextBorderPanel;
+import dev.antonyholmes.modern.text.ModernTextField;
+import dev.antonyholmes.modern.window.ModernWindow;
+import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
 
 /**
  * Allow users to choose whether to create a new figure or add to an existing

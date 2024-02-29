@@ -19,18 +19,17 @@ import java.util.List;
 
 import javax.swing.Box;
 
-import org.jebtk.modern.ModernComponent;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.CheckBox;
-import org.jebtk.modern.button.ModernCheckSwitch;
-import org.jebtk.modern.dialog.ModernDialogHelpWindow;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.scrollpane.ModernScrollPane;
-import org.jebtk.modern.scrollpane.ScrollBarPolicy;
-import org.jebtk.modern.text.ModernTextArea;
-import org.jebtk.modern.window.WindowWidgetFocusEvents;
-
+import dev.antonyholmes.modern.ModernComponent;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.CheckBox;
+import dev.antonyholmes.modern.button.ModernCheckSwitch;
+import dev.antonyholmes.modern.dialog.ModernDialogHelpWindow;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.scrollpane.ModernScrollPane;
+import dev.antonyholmes.modern.scrollpane.ScrollBarPolicy;
+import dev.antonyholmes.modern.text.ModernTextArea;
+import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
 
 /**

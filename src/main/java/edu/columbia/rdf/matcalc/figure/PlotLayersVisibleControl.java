@@ -29,9 +29,10 @@ package edu.columbia.rdf.matcalc.figure;
 
 import org.jebtk.graphplot.figure.Plot;
 import org.jebtk.graphplot.plotbox.PlotBox;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class LayersPanel.

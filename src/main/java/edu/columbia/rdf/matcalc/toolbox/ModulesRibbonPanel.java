@@ -17,14 +17,14 @@ package edu.columbia.rdf.matcalc.toolbox;
 
 import java.util.List;
 
-import org.jebtk.modern.BorderService;
-import org.jebtk.modern.ModernComponent;
-import org.jebtk.modern.help.GuiAppInfo;
-import org.jebtk.modern.help.RibbonPanelProductInfo;
-import org.jebtk.modern.scrollpane.ModernScrollPane;
-import org.jebtk.modern.table.ModernRowTable;
-import org.jebtk.modern.text.ModernAutoSizeLabel;
-import org.jebtk.modern.text.ModernSubTitleLabel;
+import dev.antonyholmes.modern.BorderService;
+import dev.antonyholmes.modern.ModernComponent;
+import dev.antonyholmes.modern.help.GuiAppInfo;
+import dev.antonyholmes.modern.help.RibbonPanelProductInfo;
+import dev.antonyholmes.modern.scrollpane.ModernScrollPane;
+import dev.antonyholmes.modern.table.ModernRowTable;
+import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
+import dev.antonyholmes.modern.text.ModernSubTitleLabel;
 
 /**
  * Display the program settings tree inline within the Ribbon menu.

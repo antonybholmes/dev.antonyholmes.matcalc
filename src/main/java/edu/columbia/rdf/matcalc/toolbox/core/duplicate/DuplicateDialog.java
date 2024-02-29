@@ -16,10 +16,11 @@
 package edu.columbia.rdf.matcalc.toolbox.core.duplicate;
 
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.dialog.ModernDialogHelpWindow;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.dialog.ModernDialogHelpWindow;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class DuplicateDialog.

@@ -23,11 +23,12 @@ import javax.swing.BoxLayout;
 import org.jebtk.core.event.ChangeListener;
 import org.jebtk.graphplot.AspectRatio;
 import org.jebtk.graphplot.figure.heatmap.legacy.HeatMapSettings;
-import org.jebtk.modern.button.CheckBox;
-import org.jebtk.modern.button.ModernCheckBox;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.panel.ModernPanel;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.button.CheckBox;
+import dev.antonyholmes.modern.button.ModernCheckBox;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.panel.ModernPanel;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class HeatMapControl.

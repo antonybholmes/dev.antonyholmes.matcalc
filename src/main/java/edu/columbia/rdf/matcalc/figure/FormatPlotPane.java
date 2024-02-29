@@ -16,9 +16,10 @@
 package edu.columbia.rdf.matcalc.figure;
 
 import org.jebtk.graphplot.plotbox.PlotBox;
-import org.jebtk.modern.ModernComponent;
-import org.jebtk.modern.tabs.SegmentTabsPanel;
-import org.jebtk.modern.tabs.TabsModel;
+
+import dev.antonyholmes.modern.ModernComponent;
+import dev.antonyholmes.modern.tabs.SegmentTabsPanel;
+import dev.antonyholmes.modern.tabs.TabsModel;
 
 /**
  * The class FormatPlotPane.

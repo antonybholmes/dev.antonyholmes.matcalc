@@ -15,12 +15,12 @@
  */
 package edu.columbia.rdf.matcalc.groups;
 
-import org.jebtk.modern.table.ModernRowTable;
-import org.jebtk.modern.table.ModernTableCheckboxCellEditor;
-import org.jebtk.modern.table.ModernTableCheckboxCellRenderer;
-import org.jebtk.modern.table.ModernTableColorCellEditor;
-import org.jebtk.modern.table.ModernTableColorCellRenderer;
-import org.jebtk.modern.window.ModernWindow;
+import dev.antonyholmes.modern.table.ModernRowTable;
+import dev.antonyholmes.modern.table.ModernTableCheckboxCellEditor;
+import dev.antonyholmes.modern.table.ModernTableCheckboxCellRenderer;
+import dev.antonyholmes.modern.table.ModernTableColorCellEditor;
+import dev.antonyholmes.modern.table.ModernTableColorCellRenderer;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The Class XYSeriesTable.

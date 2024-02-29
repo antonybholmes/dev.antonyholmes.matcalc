@@ -26,20 +26,21 @@ import org.jebtk.core.event.ChangeEvent;
 import org.jebtk.core.event.ChangeListener;
 import org.jebtk.core.text.TextUtils;
 import org.jebtk.graphplot.figure.props.FontProps;
-import org.jebtk.modern.AssetService;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernCheckButton;
-import org.jebtk.modern.combobox.ModernComboBox;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.font.FontSizesComboBox;
-import org.jebtk.modern.font.FontsComboBox;
-import org.jebtk.modern.graphics.color.ColorSwatchButton;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.panel.ModernPanel;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.AssetService;
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernCheckButton;
+import dev.antonyholmes.modern.combobox.ModernComboBox;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.font.FontSizesComboBox;
+import dev.antonyholmes.modern.font.FontsComboBox;
+import dev.antonyholmes.modern.graphics.color.ColorSwatchButton;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.panel.ModernPanel;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class TickColorPlotControl.

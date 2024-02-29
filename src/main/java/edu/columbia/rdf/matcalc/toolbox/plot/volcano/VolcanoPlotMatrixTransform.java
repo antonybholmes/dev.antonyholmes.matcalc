@@ -17,7 +17,8 @@ package edu.columbia.rdf.matcalc.toolbox.plot.volcano;
 
 import org.jebtk.graphplot.figure.Figure;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.window.ModernWindow;
 
 public class VolcanoPlotMatrixTransform extends PlotFigureTransform {
 

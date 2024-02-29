@@ -2,8 +2,8 @@ package edu.columbia.rdf.matcalc.figure;
 
 import java.awt.Color;
 
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.button.CheckSwitchAnimation;
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.button.CheckSwitchAnimation;
 
 public class MatrixGroupCheckSwitchAnimation extends CheckSwitchAnimation {
 

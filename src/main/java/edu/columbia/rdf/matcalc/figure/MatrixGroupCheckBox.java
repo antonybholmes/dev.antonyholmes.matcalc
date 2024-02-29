@@ -20,11 +20,12 @@ import java.awt.Graphics2D;
 
 import org.jebtk.core.ColorUtils;
 import org.jebtk.graphplot.figure.series.XYSeries;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernButton;
-import org.jebtk.modern.button.ModernCheckBox;
-import org.jebtk.modern.graphics.ImageUtils;
-import org.jebtk.modern.theme.ThemeService;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernButton;
+import dev.antonyholmes.modern.button.ModernCheckBox;
+import dev.antonyholmes.modern.graphics.ImageUtils;
+import dev.antonyholmes.modern.theme.ThemeService;
 
 /**
  * The class MatrixGroupCheckBox.

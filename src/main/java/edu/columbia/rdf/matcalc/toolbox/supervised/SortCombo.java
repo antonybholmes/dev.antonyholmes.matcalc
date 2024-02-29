@@ -1,8 +1,8 @@
 package edu.columbia.rdf.matcalc.toolbox.supervised;
 
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.combobox.ModernComboBox;
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.combobox.ModernComboBox;
 
 public class SortCombo extends ModernComboBox {
 

@@ -27,8 +27,7 @@ false * Copyright (C) 2016, Antony Holmes
  */
 package edu.columbia.rdf.matcalc.toolbox.core;
 
-import org.jebtk.modern.clipboard.ClipboardRibbonSection;
-
+import dev.antonyholmes.modern.clipboard.ClipboardRibbonSection;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
 import edu.columbia.rdf.matcalc.toolbox.Module;
 

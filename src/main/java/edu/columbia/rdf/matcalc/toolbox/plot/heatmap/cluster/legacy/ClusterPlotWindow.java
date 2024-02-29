@@ -23,8 +23,8 @@ import org.jebtk.graphplot.figure.heatmap.legacy.CountGroups;
 import org.jebtk.graphplot.figure.series.XYSeriesModel;
 import org.jebtk.math.cluster.Cluster;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.window.ModernWindow;
 
+import dev.antonyholmes.modern.window.ModernWindow;
 import edu.columbia.rdf.matcalc.figure.FormatPlotPane;
 import edu.columbia.rdf.matcalc.toolbox.plot.heatmap.legacy.HeatMapWindow;
 

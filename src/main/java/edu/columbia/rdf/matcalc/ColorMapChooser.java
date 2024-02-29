@@ -18,15 +18,15 @@ package edu.columbia.rdf.matcalc;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.button.CheckBox;
-import org.jebtk.modern.button.ModernButtonGroup;
-import org.jebtk.modern.button.ModernCheckBox;
-import org.jebtk.modern.button.ModernRadioButton;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.graphics.colormap.ColorMap;
-import org.jebtk.modern.graphics.colormap.ColorMapPanel;
-import org.jebtk.modern.panel.MatrixPanel;
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.button.CheckBox;
+import dev.antonyholmes.modern.button.ModernButtonGroup;
+import dev.antonyholmes.modern.button.ModernCheckBox;
+import dev.antonyholmes.modern.button.ModernRadioButton;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.graphics.colormap.ColorMap;
+import dev.antonyholmes.modern.graphics.colormap.ColorMapPanel;
+import dev.antonyholmes.modern.panel.MatrixPanel;
 
 /**
  * Allow users to pick a color map for their plot.

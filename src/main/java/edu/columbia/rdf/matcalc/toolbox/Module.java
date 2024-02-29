@@ -24,10 +24,10 @@ import org.jebtk.core.cli.Args;
 import org.jebtk.core.collections.CollectionUtils;
 import org.jebtk.core.text.TextUtils;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.dialog.ModernMessageDialog;
-import org.jebtk.modern.help.GuiAppInfo;
-import org.jebtk.modern.window.ModernWindow;
 
+import dev.antonyholmes.modern.dialog.ModernMessageDialog;
+import dev.antonyholmes.modern.help.GuiAppInfo;
+import dev.antonyholmes.modern.window.ModernWindow;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
 import edu.columbia.rdf.matcalc.MatCalcInfo;
 

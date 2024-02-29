@@ -16,7 +16,8 @@
 package edu.columbia.rdf.matcalc;
 
 import org.jebtk.math.statistics.FDRType;
-import org.jebtk.modern.combobox.ModernComboBox;
+
+import dev.antonyholmes.modern.combobox.ModernComboBox;
 
 /**
  * For choosing an FDR method.

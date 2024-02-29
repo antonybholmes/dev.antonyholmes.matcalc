@@ -20,14 +20,15 @@ import org.jebtk.core.event.ChangeListener;
 import org.jebtk.graphplot.figure.heatmap.ColorNormalization;
 import org.jebtk.graphplot.figure.heatmap.ColorNormalizationModel;
 import org.jebtk.graphplot.figure.heatmap.ColorNormalizationType;
-import org.jebtk.modern.button.ModernButtonGroup;
-import org.jebtk.modern.dialog.ModernDialogStatus;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.ribbon.Ribbon;
-import org.jebtk.modern.ribbon.RibbonLargeCheckButton;
-import org.jebtk.modern.ribbon.RibbonSection;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.button.ModernButtonGroup;
+import dev.antonyholmes.modern.dialog.ModernDialogStatus;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.ribbon.Ribbon;
+import dev.antonyholmes.modern.ribbon.RibbonLargeCheckButton;
+import dev.antonyholmes.modern.ribbon.RibbonSection;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * Allows user to select a how the colors are standardized on a heat map.

@@ -23,8 +23,9 @@ import org.jebtk.core.Props;
 import org.jebtk.core.event.ChangeEvent;
 import org.jebtk.core.event.ChangeListener;
 import org.jebtk.graphplot.ModernPlotCanvas;
-import org.jebtk.modern.graphics.DrawingContext;
-import org.jebtk.modern.graphics.ImageUtils;
+
+import dev.antonyholmes.modern.graphics.DrawingContext;
+import dev.antonyholmes.modern.graphics.ImageUtils;
 
 /**
  * The Class VennCanvas.

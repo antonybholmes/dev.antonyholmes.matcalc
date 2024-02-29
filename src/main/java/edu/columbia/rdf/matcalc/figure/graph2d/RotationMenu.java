@@ -15,11 +15,11 @@
  */
 package edu.columbia.rdf.matcalc.figure.graph2d;
 
-import org.jebtk.modern.graphics.icons.ArrowDownVectorIcon;
-import org.jebtk.modern.graphics.icons.ArrowRightVectorIcon;
-import org.jebtk.modern.graphics.icons.Raster16Icon;
-import org.jebtk.modern.menu.ModernIconMenuItem;
-import org.jebtk.modern.menu.ModernPopupMenu;
+import dev.antonyholmes.modern.graphics.icons.ArrowDownVectorIcon;
+import dev.antonyholmes.modern.graphics.icons.ArrowRightVectorIcon;
+import dev.antonyholmes.modern.graphics.icons.Raster16Icon;
+import dev.antonyholmes.modern.menu.ModernIconMenuItem;
+import dev.antonyholmes.modern.menu.ModernPopupMenu;
 
 /**
  * The class RotationMenu.

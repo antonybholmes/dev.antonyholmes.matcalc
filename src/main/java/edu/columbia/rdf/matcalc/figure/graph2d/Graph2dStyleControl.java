@@ -19,11 +19,12 @@ import javax.swing.Box;
 
 import org.jebtk.graphplot.figure.Axes;
 import org.jebtk.graphplot.figure.PlotStyle;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.text.ModernLabel;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.text.ModernLabel;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class Graph2dStyleControl.

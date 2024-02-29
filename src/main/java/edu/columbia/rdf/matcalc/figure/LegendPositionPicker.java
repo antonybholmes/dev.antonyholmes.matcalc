@@ -25,12 +25,13 @@ import org.jebtk.core.event.ChangeEvent;
 import org.jebtk.core.event.ChangeListener;
 import org.jebtk.graphplot.figure.GridLocation;
 import org.jebtk.graphplot.figure.props.LegendProps;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernClickWidget;
-import org.jebtk.modern.ribbon.Ribbon;
-import org.jebtk.modern.ribbon.RibbonModeProperty;
-import org.jebtk.modern.ribbon.RibbonSize;
-import org.jebtk.modern.text.TextProperty;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernClickWidget;
+import dev.antonyholmes.modern.ribbon.Ribbon;
+import dev.antonyholmes.modern.ribbon.RibbonModeProperty;
+import dev.antonyholmes.modern.ribbon.RibbonSize;
+import dev.antonyholmes.modern.text.TextProperty;
 
 /**
  * The class GridLocationPicker.

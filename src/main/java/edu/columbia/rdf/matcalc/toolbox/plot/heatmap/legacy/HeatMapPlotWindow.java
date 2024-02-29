@@ -21,8 +21,8 @@ import org.jebtk.core.Props;
 import org.jebtk.graphplot.figure.heatmap.legacy.CountGroups;
 import org.jebtk.graphplot.figure.series.XYSeriesModel;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.window.ModernWindow;
 
+import dev.antonyholmes.modern.window.ModernWindow;
 import edu.columbia.rdf.matcalc.figure.FormatPlotPane;
 
 /**

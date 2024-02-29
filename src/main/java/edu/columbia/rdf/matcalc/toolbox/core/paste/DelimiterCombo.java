@@ -1,7 +1,8 @@
 package edu.columbia.rdf.matcalc.toolbox.core.paste;
 
 import org.jebtk.core.text.TextUtils;
-import org.jebtk.modern.combobox.ModernComboBox;
+
+import dev.antonyholmes.modern.combobox.ModernComboBox;
 
 public class DelimiterCombo extends ModernComboBox {
 

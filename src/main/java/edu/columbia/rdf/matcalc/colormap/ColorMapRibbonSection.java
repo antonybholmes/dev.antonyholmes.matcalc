@@ -18,18 +18,18 @@ package edu.columbia.rdf.matcalc.colormap;
 
 import org.jebtk.core.event.ChangeEvent;
 import org.jebtk.core.event.ChangeListener;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.CheckBox;
-import org.jebtk.modern.button.ModernCheckSwitch;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.graphics.colormap.ColorMap;
-import org.jebtk.modern.graphics.colormap.ColorMapModel;
-import org.jebtk.modern.ribbon.RibbonSection;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
-import org.jebtk.modern.text.ModernAutoSizeLabel;
-import org.jebtk.modern.window.ModernRibbonWindow;
 
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.CheckBox;
+import dev.antonyholmes.modern.button.ModernCheckSwitch;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.graphics.colormap.ColorMap;
+import dev.antonyholmes.modern.graphics.colormap.ColorMapModel;
+import dev.antonyholmes.modern.ribbon.RibbonSection;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.text.ModernAutoSizeLabel;
+import dev.antonyholmes.modern.window.ModernRibbonWindow;
 import edu.columbia.rdf.matcalc.figure.ScaleSpinner;
 import edu.columbia.rdf.matcalc.toolbox.plot.heatmap.ScaleModel;
 

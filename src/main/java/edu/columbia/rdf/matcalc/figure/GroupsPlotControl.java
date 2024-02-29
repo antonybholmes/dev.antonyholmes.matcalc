@@ -19,14 +19,15 @@ import java.awt.Color;
 
 import org.jebtk.core.Props;
 import org.jebtk.graphplot.figure.heatmap.legacy.GroupProps;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernCheckSwitch;
-import org.jebtk.modern.button.ModernTwoStateWidget;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.graphics.color.ColorSwatchButton;
-import org.jebtk.modern.panel.HExpandBox;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernCheckSwitch;
+import dev.antonyholmes.modern.button.ModernTwoStateWidget;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.graphics.color.ColorSwatchButton;
+import dev.antonyholmes.modern.panel.HExpandBox;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class GroupsPlotControl.

@@ -27,7 +27,7 @@
  */
 package edu.columbia.rdf.matcalc.groups;
 
-import org.jebtk.modern.io.GuiFileExtFilter;
+import dev.antonyholmes.modern.io.GuiFileExtFilter;
 
 // TODO: Auto-generated Javadoc
 /**

@@ -15,7 +15,7 @@
  */
 package edu.columbia.rdf.matcalc.figure;
 
-import org.jebtk.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
 
 /**
  * The Class ScaleSpinner is a specialized spinner for controlling plot scale

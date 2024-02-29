@@ -16,8 +16,8 @@
 package edu.columbia.rdf.matcalc;
 
 import org.jebtk.core.AppVersion;
-import org.jebtk.modern.help.GuiAppInfo;
 
+import dev.antonyholmes.modern.help.GuiAppInfo;
 import edu.columbia.rdf.matcalc.icons.MatCalcIcon;
 
 /**
@@ -29,7 +29,7 @@ public class MatCalcInfo extends GuiAppInfo {
    * Instantiates a new mat calc info.
    */
   public MatCalcInfo() {
-    super("MatCalc", new AppVersion(31), "Copyright (C) 2014-${year} Antony Holmes", new MatCalcIcon(),
+    super("MatCalc", new AppVersion(34), "Copyright (C) 2014-${year} Antony Holmes", new MatCalcIcon(),
         "Matrix calculations and plotting.");
   }
 

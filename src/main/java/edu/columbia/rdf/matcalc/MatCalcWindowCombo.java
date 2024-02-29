@@ -17,11 +17,11 @@ package edu.columbia.rdf.matcalc;
 
 import java.awt.Dimension;
 
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.combobox.ModernComboBox;
-import org.jebtk.modern.window.ModernWindow;
-import org.jebtk.modern.window.WindowService;
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.combobox.ModernComboBox;
+import dev.antonyholmes.modern.window.ModernWindow;
+import dev.antonyholmes.modern.window.WindowService;
 
 /**
  * The class MatCalcWindowCombo.

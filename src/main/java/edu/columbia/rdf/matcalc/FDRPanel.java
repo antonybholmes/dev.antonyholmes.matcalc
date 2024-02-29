@@ -16,15 +16,16 @@
 package edu.columbia.rdf.matcalc;
 
 import org.jebtk.math.statistics.FDRType;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernButtonGroup;
-import org.jebtk.modern.button.ModernCheckSwitch;
-import org.jebtk.modern.button.ModernRadioButton;
-import org.jebtk.modern.button.ModernTwoStateWidget;
-import org.jebtk.modern.panel.HExpandBox;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernButtonGroup;
+import dev.antonyholmes.modern.button.ModernCheckSwitch;
+import dev.antonyholmes.modern.button.ModernRadioButton;
+import dev.antonyholmes.modern.button.ModernTwoStateWidget;
+import dev.antonyholmes.modern.panel.HExpandBox;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
 
 /**
  * For choosing an FDR method.

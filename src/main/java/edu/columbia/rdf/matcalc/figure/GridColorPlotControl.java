@@ -16,7 +16,8 @@
 package edu.columbia.rdf.matcalc.figure;
 
 import org.jebtk.graphplot.figure.props.GridProps;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * The class GridColorPlotControl.

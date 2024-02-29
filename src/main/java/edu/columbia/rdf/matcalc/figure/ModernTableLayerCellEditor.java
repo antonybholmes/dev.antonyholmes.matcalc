@@ -15,7 +15,7 @@
  */
 package edu.columbia.rdf.matcalc.figure;
 
-import org.jebtk.modern.table.ModernTableCheckboxCellEditor;
+import dev.antonyholmes.modern.table.ModernTableCheckboxCellEditor;
 
 /**
  * The class ModernTableLayerCellEditor.

@@ -21,14 +21,14 @@ import org.jebtk.core.event.ChangeEvent;
 import org.jebtk.core.event.ChangeListener;
 import org.jebtk.graphplot.figure.series.XYSeries;
 import org.jebtk.graphplot.icons.ShapeStyle;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.panel.HBox;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
-import org.jebtk.modern.window.ModernWindow;
 
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.panel.HBox;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.window.ModernWindow;
 import edu.columbia.rdf.matcalc.figure.VisibleControl;
 
 /**

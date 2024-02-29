@@ -16,9 +16,10 @@
 package edu.columbia.rdf.matcalc.figure;
 
 import org.jebtk.graphplot.figure.GridLocation;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.combobox.ModernComboBox;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.combobox.ModernComboBox;
 
 /**
  * The Class GridLocationCombo.

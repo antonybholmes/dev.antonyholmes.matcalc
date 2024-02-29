@@ -15,8 +15,8 @@
  */
 package edu.columbia.rdf.matcalc.icons;
 
-import org.jebtk.modern.ColorTheme;
-import org.jebtk.modern.graphics.icons.ModernApplicationIcon;
+import dev.antonyholmes.modern.ColorTheme;
+import dev.antonyholmes.modern.graphics.icons.ModernApplicationIcon;
 
 /**
  * The Class MatCalcIcon.

@@ -20,7 +20,8 @@ import org.jebtk.math.cluster.EuclideanDistanceMetric;
 import org.jebtk.math.cluster.ManhattanDistanceMetric;
 import org.jebtk.math.cluster.MaximumDistanceMetric;
 import org.jebtk.math.cluster.PearsonDistanceMetric;
-import org.jebtk.modern.combobox.ModernComboBox;
+
+import dev.antonyholmes.modern.combobox.ModernComboBox;
 
 /**
  * The Class ClusterDistanceMetricCombo.

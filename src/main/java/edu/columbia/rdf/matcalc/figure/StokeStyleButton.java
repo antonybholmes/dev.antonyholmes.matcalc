@@ -19,12 +19,13 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 
 import org.jebtk.graphplot.figure.props.StrokeStyle;
-import org.jebtk.modern.dialog.ControlDropDownButton;
-import org.jebtk.modern.event.ModernClickEvent;
-import org.jebtk.modern.event.ModernClickListener;
-import org.jebtk.modern.menu.ModernScrollPopupMenu;
-import org.jebtk.modern.theme.ModernTheme;
-import org.jebtk.modern.window.ModernWindow;
+
+import dev.antonyholmes.modern.dialog.ControlDropDownButton;
+import dev.antonyholmes.modern.event.ModernClickEvent;
+import dev.antonyholmes.modern.event.ModernClickListener;
+import dev.antonyholmes.modern.menu.ModernScrollPopupMenu;
+import dev.antonyholmes.modern.theme.ModernTheme;
+import dev.antonyholmes.modern.window.ModernWindow;
 
 /**
  * Allow users to select a line style.

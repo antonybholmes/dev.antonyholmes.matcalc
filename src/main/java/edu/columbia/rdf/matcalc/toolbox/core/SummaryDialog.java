@@ -32,15 +32,15 @@ import javax.swing.Box;
 import org.jebtk.core.Mathematics;
 import org.jebtk.math.matrix.DataFrame;
 import org.jebtk.math.matrix.utils.MatrixOperations;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.dialog.ModernDialogTaskType;
-import org.jebtk.modern.dialog.ModernDialogTaskWindow;
-import org.jebtk.modern.panel.HExpandBox;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.text.ModernClipboardNumericalTextField;
-import org.jebtk.modern.text.ModernTextBorderPanel;
 
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.dialog.ModernDialogTaskType;
+import dev.antonyholmes.modern.dialog.ModernDialogTaskWindow;
+import dev.antonyholmes.modern.panel.HExpandBox;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.text.ModernClipboardNumericalTextField;
+import dev.antonyholmes.modern.text.ModernTextBorderPanel;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
 
 /**

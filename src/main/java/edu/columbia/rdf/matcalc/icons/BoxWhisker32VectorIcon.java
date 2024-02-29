@@ -19,7 +19,8 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 
 import org.jebtk.core.Props;
-import org.jebtk.modern.graphics.icons.ModernVectorIcon;
+
+import dev.antonyholmes.modern.graphics.icons.ModernVectorIcon;
 
 /**
  * The class BoxWhisker32VectorIcon.

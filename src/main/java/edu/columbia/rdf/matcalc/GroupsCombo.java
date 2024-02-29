@@ -19,9 +19,10 @@ import java.util.List;
 
 import org.jebtk.graphplot.figure.series.XYSeries;
 import org.jebtk.math.matrix.MatrixGroup;
-import org.jebtk.modern.ModernWidget;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.combobox.ModernComboBox2;
+
+import dev.antonyholmes.modern.ModernWidget;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.combobox.ModernComboBox2;
 
 /**
  * The Class GroupsCombo.

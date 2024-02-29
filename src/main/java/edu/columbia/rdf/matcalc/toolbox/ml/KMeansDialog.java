@@ -17,15 +17,15 @@ package edu.columbia.rdf.matcalc.toolbox.ml;
 
 import javax.swing.Box;
 
-import org.jebtk.modern.UI;
-import org.jebtk.modern.button.ModernCheckSwitch;
-import org.jebtk.modern.button.ModernTwoStateWidget;
-import org.jebtk.modern.dialog.ModernDialogHelpWindow;
-import org.jebtk.modern.panel.HExpandBox;
-import org.jebtk.modern.panel.VBox;
-import org.jebtk.modern.spinner.ModernCompactSpinner;
-import org.jebtk.modern.window.ModernWindow;
-import org.jebtk.modern.window.WindowWidgetFocusEvents;
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.button.ModernCheckSwitch;
+import dev.antonyholmes.modern.button.ModernTwoStateWidget;
+import dev.antonyholmes.modern.dialog.ModernDialogHelpWindow;
+import dev.antonyholmes.modern.panel.HExpandBox;
+import dev.antonyholmes.modern.panel.VBox;
+import dev.antonyholmes.modern.spinner.ModernCompactSpinner;
+import dev.antonyholmes.modern.window.ModernWindow;
+import dev.antonyholmes.modern.window.WindowWidgetFocusEvents;
 
 /**
  * The class TTestDialog.

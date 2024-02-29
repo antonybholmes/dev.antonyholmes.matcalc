@@ -25,11 +25,12 @@ import org.jebtk.graphplot.icons.JoinedSmoothStyleIcon;
 import org.jebtk.graphplot.icons.JoinedStyleIcon;
 import org.jebtk.graphplot.icons.LinesStyleIcon;
 import org.jebtk.graphplot.icons.ScatterStyleIcon;
-import org.jebtk.modern.UI;
-import org.jebtk.modern.graphics.icons.ModernIcon;
-import org.jebtk.modern.graphics.icons.Raster32Icon;
-import org.jebtk.modern.menu.ModernIconMenuItem;
-import org.jebtk.modern.menu.ModernPopupMenu2;
+
+import dev.antonyholmes.modern.UI;
+import dev.antonyholmes.modern.graphics.icons.ModernIcon;
+import dev.antonyholmes.modern.graphics.icons.Raster32Icon;
+import dev.antonyholmes.modern.menu.ModernIconMenuItem;
+import dev.antonyholmes.modern.menu.ModernPopupMenu2;
 
 /**
  * The class Graph2dStyleMenu.

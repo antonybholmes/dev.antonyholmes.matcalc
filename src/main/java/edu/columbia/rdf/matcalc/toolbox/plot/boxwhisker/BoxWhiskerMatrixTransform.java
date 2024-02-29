@@ -17,8 +17,8 @@ package edu.columbia.rdf.matcalc.toolbox.plot.boxwhisker;
 
 import org.jebtk.graphplot.figure.SubFigure;
 import org.jebtk.math.matrix.DataFrame;
-import org.jebtk.modern.window.ModernWindow;
 
+import dev.antonyholmes.modern.window.ModernWindow;
 import edu.columbia.rdf.matcalc.MainMatCalcWindow;
 import edu.columbia.rdf.matcalc.PlotMatrixTransform;
 import edu.columbia.rdf.matcalc.figure.graph2d.Graph2dWindow;
